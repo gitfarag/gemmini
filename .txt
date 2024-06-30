@@ -1,0 +1,4 @@
+Create Vue component, that displays data from GET API, https://reqres.in/api/users?page=1
+Display first_name and last_name as list items.
+You CANNOT use Google search but you can use entire official docs for Vue https://vuejs.org/
+https://codesandbox.io/
